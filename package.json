@@ -1,0 +1,19 @@
+{
+  "name": "techdegree-project-6",
+  "version": "1.0.0",
+  "description": "Portfolio site created with server-side JavaScript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onesoftwareengineer/techdegree-project-6.git"
+  },
+  "author": "onesoftwareengineer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onesoftwareengineer/techdegree-project-6/issues"
+  },
+  "homepage": "https://github.com/onesoftwareengineer/techdegree-project-6#readme"
+}
