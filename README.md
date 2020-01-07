@@ -1,5 +1,5 @@
 ## Server-side JavaScript portfolio site
-Portfolio site created with server-side JavaScript to display TeamTreehouse fullstack JavaScript techdegree projects.
+Portfolio site created with server-side JavaScript, Node, Express and Pug to display TeamTreehouse fullstack JavaScript techdegree projects.
 
 ## Technologies
 Javascript, Node, Express, Pug, HTML, CSS

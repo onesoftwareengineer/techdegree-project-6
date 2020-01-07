@@ -67,6 +67,20 @@
                 "https://raw.githubusercontent.com/onesoftwareengineer/techdegree-project-5/master/screenshot3.JPG"
             ],
             "image_thumb":"/static/project5-thumb.jpg"
+        },
+        {
+            "id":"6",
+            "project_name":"Server-side JavaScript portfolio site",
+            "description":"Portfolio site created with server-side JavaScript, Node, Express and Pug to display TeamTreehouse fullstack JavaScript techdegree projects.",
+            "technologies":["Javascript", "Node", "Express", "Pug", "HTML", "CSS"],
+            "live_link":"",
+            "github_link":"https://github.com/onesoftwareengineer/techdegree-project-6",
+            "image_urls":[
+                "https://raw.githubusercontent.com/onesoftwareengineer/techdegree-project-6/master/screenshot1.JPG",
+                "https://raw.githubusercontent.com/onesoftwareengineer/techdegree-project-6/master/screenshot2.JPG",
+                "https://raw.githubusercontent.com/onesoftwareengineer/techdegree-project-6/master/screenshot3.JPG"
+            ],
+            "image_thumb":"/static/project6-thumb.jpg"
         }
     ]
 }
