@@ -19,6 +19,10 @@ app.get('/project/:id', (req,res) => {
     res.render('project', { project });
 });
 
+app.get('/error', (req,res) => {
+    res.render('error');
+});
+
 app.listen(3000, ()=>{
     console.log('server is running on port 3000!');
 });
