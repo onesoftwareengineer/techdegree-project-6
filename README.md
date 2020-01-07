@@ -1,7 +1,20 @@
-# techdegree-project-6
- Portfolio site created with server-side JavaScript
+## Server-side JavaScript portfolio site
+Portfolio site created with server-side JavaScript to display TeamTreehouse fullstack JavaScript techdegree projects.
 
+## Technologies
+Javascript, Node, Express, Pug, HTML, CSS
 
+## Screenshots
+![image](https://raw.githubusercontent.com/onesoftwareengineer/techdegree-project-6/master/screenshot1.JPG)
+*portfolio home page*
+
+![image](https://raw.githubusercontent.com/onesoftwareengineer/techdegree-project-6/master/screenshot2.JPG)
+*project page*
+
+![image](https://raw.githubusercontent.com/onesoftwareengineer/techdegree-project-6/master/screenshot3.JPG)
+*about page*
+
+## Additional style changes
 style.css changes
 - h1,h2,h3,h4,h5,p font-family changed to: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 - .portfolio-me p color changed to whitesmoke
