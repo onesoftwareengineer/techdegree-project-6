@@ -4,8 +4,13 @@ block content
   article.grid-container.portfolio-intro
     a(href="/about")
         div
-        h1 The page you were looking for is not available ...
+        img(src="https://thealpnews.com/wp-content/uploads/2016/05/look-down.png?w=640")
+        h1=error.message 
         p.lead.text-light
-            | but one diligent and hard-working Fullstack-JavaScript developer is, hurry up not to loose him too
-        br 
-        img(src="https://performancein.com/assets/uploads/img/news/2017/07/crop/shutterstock_669100669_T6jZQRA896x504.jpg.jpg")
+            | all good, your fullstack developer is able to help you, just send him a quick email
+        br
+        h6=`${error.status} error details:`
+        p.lead.text-light=error.stack
+
+block title
+    title=error.message

@@ -13,13 +13,23 @@ app.get('/about', (req,res) => {
     res.render('about');
 });
 
-app.get('/project/:id', (req,res) => {
+app.get('/project/:id', (req,res,next) => {
     const id = req.params.id;
     const project = projects.find( project => project.id === id);
+    if(project === undefined) {
+        next();
+    }
     res.render('project', { project });
 });
 
-app.get('/error', (req,res) => {
+app.use( (req, res, next) => {
+    const err = new Error('The page you were looking for is not available ...');
+    err.status = 404;
+    next(err);
+});
+
+app.use((err, req, res, next) => {
+    res.locals.error = err;
     res.render('error');
 });
 

@@ -44,7 +44,7 @@
             "id":"4",
             "project_name":"Phrase Hunter Game",
             "description":"Browser-based, JavaScript and OOP (Object-Oriented Programming) word guessing game.",
-            "technologies":["JavaScript OOP (Object-Oriented Programming)", "HTML", "CSS"],
+            "technologies":["JavaScript", "OOP (Object-Oriented Programming)", "HTML", "CSS"],
             "live_link":"",
             "github_link":"https://github.com/onesoftwareengineer/techdegree-project-4",
             "image_urls":[
