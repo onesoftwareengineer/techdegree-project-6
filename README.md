@@ -8,11 +8,14 @@ Javascript, Node, Express, Pug, HTML, CSS
 ![image](https://raw.githubusercontent.com/onesoftwareengineer/techdegree-project-6/master/screenshot1.JPG)
 *portfolio home page*
 
+
 ![image](https://raw.githubusercontent.com/onesoftwareengineer/techdegree-project-6/master/screenshot2.JPG)
 *project page*
 
+
 ![image](https://raw.githubusercontent.com/onesoftwareengineer/techdegree-project-6/master/screenshot3.JPG)
 *about page*
+
 
 ## Additional style changes
 style.css changes
