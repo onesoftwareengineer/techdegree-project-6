@@ -15,12 +15,13 @@ block content
           each technology in project.technologies 
             li=technology
         if project.live_link
-          a.button.expanded(href=`${project.live_link}`) Live Demo
+          a.button.expanded(href=`${project.live_link}`, target="_blank") Live Demo
         if project.github_link
-          a.button.expanded(href=`${project.github_link}`) GitHub Repo
+          a.button.expanded(href=`${project.github_link}`, target="_blank") GitHub Repo
     each url in project.image_urls
       img.image(src=`${url}`)
 
+//- changing page title, other than the default layout pug template
 block title
   title=project.project_name
   meta(name="description", content=`${project.description}`)

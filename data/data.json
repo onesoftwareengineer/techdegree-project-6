@@ -5,7 +5,7 @@
             "project_name":"Random Quote Generator",
             "description":"A program that uses basic JavaScript to display a randomly selected quote each time the user clicks a button",
             "technologies":["JavaScript","HTML","CSS"],
-            "live_link":"",
+            "live_link":"https://onesoftwareengineer.github.io/techdegree-project-1",
             "github_link":"https://github.com/onesoftwareengineer/techdegree-project-1",
             "image_urls":[
                         "https://raw.githubusercontent.com/onesoftwareengineer/techdegree-project-1/master/screenshot1.JPG",
@@ -18,7 +18,7 @@
             "project_name":"Pagination and dynamic search",
             "description":"Usage of javascript to add pagination (navigation system) and a dynamic search feature to a list of entries.",
             "technologies":["JavaScript","HTML","CSS"],
-            "live_link":"",
+            "live_link":"https://onesoftwareengineer.github.io/techdegree-project-2",
             "github_link":"https://github.com/onesoftwareengineer/techdegree-project-2",
             "image_urls":[
                 "https://raw.githubusercontent.com/onesoftwareengineer/techdegree-project-2/master/screenshot1.JPG",
@@ -31,7 +31,7 @@
             "project_name":"jQuery form validation",
             "description":"Using jQuery to enhance and validate an interactive registration form for a fictional conference called FullStack Conf.",
             "technologies":["JavaScript","HTML","CSS"],
-            "live_link":"",
+            "live_link":"https://onesoftwareengineer.github.io/techdegree-project-3",
             "github_link":"https://github.com/onesoftwareengineer/techdegree-project-3",
             "image_urls":[
                 "https://raw.githubusercontent.com/onesoftwareengineer/techdegree-project-3/master/screenshot1.JPG",
@@ -45,7 +45,7 @@
             "project_name":"Phrase Hunter Game",
             "description":"Browser-based, JavaScript and OOP (Object-Oriented Programming) word guessing game.",
             "technologies":["JavaScript", "OOP (Object-Oriented Programming)", "HTML", "CSS"],
-            "live_link":"",
+            "live_link":"https://onesoftwareengineer.github.io/techdegree-project-4",
             "github_link":"https://github.com/onesoftwareengineer/techdegree-project-4",
             "image_urls":[
                 "https://raw.githubusercontent.com/onesoftwareengineer/techdegree-project-4/master/screenshot1.JPG",
@@ -59,7 +59,7 @@
             "project_name":"API Address Book",
             "description":"JavaScript based address book app that communicates with a third-party API to create an employee directory.",
             "technologies":["Javascript (Fetch API)", "HTML", "CSS"],
-            "live_link":"",
+            "live_link":"https://onesoftwareengineer.github.io/techdegree-project-5",
             "github_link":"https://github.com/onesoftwareengineer/techdegree-project-5",
             "image_urls":[
                 "https://raw.githubusercontent.com/onesoftwareengineer/techdegree-project-5/master/screenshot1.JPG",
