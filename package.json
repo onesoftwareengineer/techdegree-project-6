@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/onesoftwareengineer/techdegree-project-6.git"
   },
+  "engines": {
+    "node": "4.2.4"
+  },
   "author": "onesoftwareengineer",
   "license": "ISC",
   "bugs": {
