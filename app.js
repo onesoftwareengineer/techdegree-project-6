@@ -25,7 +25,7 @@ app.get('/project/:id', (req,res,next) => {
     const project = projects.find( project => project.id === id);
     //handling page not found error
     if(project === undefined) {
-        next();
+        return next();
     }
     res.render('project', { project });
 });
